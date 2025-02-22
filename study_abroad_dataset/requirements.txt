@@ -1,0 +1,10 @@
+aiofiles>=23.2.1
+google-generativeai>=0.3.1
+numpy>=1.24.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+typing-extensions>=4.7.1
+scikit-learn>=1.3.0  # For TF-IDF similarity calculations
+nltk>=3.8.1  # For text processing
+asyncio>=3.4.3  # For async/await support
+aiohttp>=3.9.1  # For async HTTP requests

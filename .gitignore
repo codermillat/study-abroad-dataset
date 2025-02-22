@@ -1,0 +1,14 @@
+.DS_Store
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.log
+dataset_cleaner.log
+.vscode/
+*.bak
